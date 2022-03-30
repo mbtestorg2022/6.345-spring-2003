@@ -4,6 +4,7 @@ description: 'Assignment 8: Speech recognition using HMM-based systems: CMU SPHI
   and SPHINX-4 [Hidden Markov Models]'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-345-automatic-speech-recognition-spring-2003/32abb300bde85ecfe9f80b47b7b5e91a_assignment8.pdf
 file_type: application/pdf
+parent_uid: 97dcd504-ff85-3ae8-7ab8-103d29b1ce50
 resourcetype: Document
 title: assignment8.pdf
 uid: 32abb300-bde8-5ecf-e9f8-0b47b7b5e91a
